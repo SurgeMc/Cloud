@@ -1,0 +1,462 @@
+{
+  "ClickGui": {
+    "enabled": false,
+    "bind": 344,
+    "Mode": "ImGui"
+  },
+  "CustomUsername": {
+    "enabled": false,
+    "bind": 0,
+    "Username": "cracked"
+  },
+  "Interface": {
+    "enabled": true,
+    "bind": 0,
+    "Watermark": true,
+    "Watermark Mode": "Gamesense",
+    "Watermark Text": "Cubzyn",
+    "Watermark Font": "MC",
+    "ArrayList": true,
+    "Color Mode": "Theme",
+    "ArrayList Font": "MC",
+    "Suffix": "Space",
+    "Hide visuals": true,
+    "Lowercase": false,
+    "Backbar Mode": "None",
+    "Offset": 5.0,
+    "BG Opacity": 80.0,
+    "Info": true,
+    "BPS": true,
+    "FPS": true
+  },
+  "Notifications": {
+    "enabled": false,
+    "bind": 0,
+    "BG Opacity": 80.0,
+    "Font": "MC"
+  },
+  "PostProcessing": {
+    "enabled": false,
+    "bind": 0,
+    "TargetHud": false,
+    "WaterMark": false,
+    "Arraylist": false
+  },
+  "TargetHUD": {
+    "enabled": true,
+    "bind": 0,
+    "TargetHUD Mode": "Nexus",
+    "Debug": false,
+    "BG Opacity": 80.0
+  },
+  "Theme": {
+    "enabled": false,
+    "bind": 0,
+    "Theme": "Bubblegum",
+    "Red Main": 0.0,
+    "Green Main": 0.0,
+    "Blue Main": 0.0,
+    "Red Second": 255.0,
+    "Green Second": 255.0,
+    "Blue Second": 255.0
+  },
+  "AntiBot": {
+    "enabled": false,
+    "bind": 0,
+    "Mode": "Hypixel",
+    "Name check": true,
+    "Dead check": true,
+    "God check": true,
+    "Invis check": true
+  },
+  "Backtrack": {
+    "enabled": false,
+    "bind": 0,
+    "Range": {
+      "max": 4.5,
+      "min": 2.9
+    },
+    "Delay": {
+      "max": 150.0,
+      "min": 100.0
+    }
+  },
+  "Criticals": {
+    "enabled": false,
+    "bind": 0,
+    "Crit Mode": "Vanilla"
+  },
+  "InfiniteAura": {
+    "enabled": false,
+    "bind": 0,
+    "Range": 32.0,
+    "Attack team mates": false,
+    "1.9 Attack Speed": false,
+    "CPS": {
+      "max": 12.0,
+      "min": 10.0
+    }
+  },
+  "KillAura": {
+    "enabled": false,
+    "bind": 82,
+    "Switch Aura": false,
+    "Switch Delay": 150.0,
+    "Sort Mode": "Off",
+    "Find Range": 6.0,
+    "Attack Range": 4.0,
+    "Block Range": 4.3,
+    "Vec Mode": "Normal",
+    "Rot Mode": "None",
+    "Random Mode": [],
+    "Yaw Randomization Value": {
+      "max": 5.0,
+      "min": 3.0
+    },
+    "Pitch Randomization Value": {
+      "max": 5.0,
+      "min": 3.0
+    },
+    "Smooth Mode": [],
+    "Noise Smooth": {
+      "max": 0.6,
+      "min": 0.4
+    },
+    "Rot Speed": {
+      "max": 160.0,
+      "min": 134.0
+    },
+    "1.9 Attack Speed": false,
+    "CPS": {
+      "max": 18.4,
+      "min": 8.7
+    },
+    "Drop CPS": false,
+    "Dont attack while blocking": false,
+    "AutoBlock": "Interact",
+    "Fake autoblock": false,
+    "Attack team mates": true,
+    "Perfect Hit": false,
+    "Stop in guis": true,
+    "1.8 Swing Order": false,
+    "Though Walls": false,
+    "Raytrace": false,
+    "Strict Raytrace": false
+  },
+  "TargetStrafe": {
+    "enabled": false,
+    "bind": 0,
+    "Range": 3.0,
+    "Hold jump": false,
+    "Strafe": false
+  },
+  "TickBase": {
+    "enabled": false,
+    "bind": 0,
+    "Range": {
+      "max": 4.5,
+      "min": 3.5
+    },
+    "Ticks": 5.0
+  },
+  "Velocity": {
+    "enabled": true,
+    "bind": 0,
+    "Velocity Mode": "Simple",
+    "Vertical": 0.0,
+    "Horizontal": 0.0,
+    "Vertical BMC": 85.0,
+    "Horizontal BMC": 85.0,
+    "Air Ticks": 5.0
+  },
+  "AimAssist": {
+    "enabled": false,
+    "bind": 0,
+    "ClickOnly": true,
+    "FovBased": true,
+    "PitchAssist": true,
+    "Attack TeamMates": false,
+    "Break Blocks": false,
+    "Speed": {
+      "max": 50.0,
+      "min": 20.0
+    }
+  },
+  "AutoClicker": {
+    "enabled": false,
+    "bind": 0,
+    "CPS": {
+      "max": 12.0,
+      "min": 10.0
+    },
+    "Drop CPS": true,
+    "Play Sound": false,
+    "1.8 Swing Order": false
+  },
+  "LagRange": {
+    "enabled": false,
+    "bind": 0,
+    "Range": {
+      "max": 4.5,
+      "min": 3.2
+    }
+  },
+  "TriggerBot": {
+    "enabled": false,
+    "bind": 0
+  },
+  "AirStuck": {
+    "enabled": false,
+    "bind": 0
+  },
+  "ClickTP": {
+    "enabled": false,
+    "bind": 0,
+    "ClickTP Mode": "Vanilla"
+  },
+  "ElytraFly": {
+    "enabled": false,
+    "bind": 0
+  },
+  "Fly": {
+    "enabled": false,
+    "bind": 70,
+    "Fly Mode": "Vulcan Glide",
+    "Speed": 1.0
+  },
+  "InvMove": {
+    "enabled": false,
+    "bind": 0,
+    "Mode": "Vanilla",
+    "Jump": false,
+    "Undetectable": false
+  },
+  "KeepSprint": {
+    "enabled": true,
+    "bind": 0,
+    "Sprint": true
+  },
+  "LongJump": {
+    "enabled": false,
+    "bind": 0,
+    "Long Jump Mode": "Double Jump"
+  },
+  "MoveFix": {
+    "enabled": false,
+    "bind": 0,
+    "Silent": false
+  },
+  "NoSlow": {
+    "enabled": true,
+    "bind": 0,
+    "Block": true,
+    "Block Mode": "Vanilla",
+    "Eat": true,
+    "Eat Mode": "Vanilla",
+    "Drink": true,
+    "Drink Mode": "Vanilla",
+    "Bow": true,
+    "Bow Mode": "Vanilla",
+    "BlockRightClick": false,
+    "WorkWithAB": false
+  },
+  "Speed": {
+    "enabled": false,
+    "bind": 88,
+    "Speed Mode": "Vulcan",
+    "Vanilla Speed": 0.2,
+    "Watchdog LowHop": true,
+    "Watchdog Strafe": true,
+    "Cancel Velocity": false,
+    "Need Disabler": true,
+    "HurtBoost": false,
+    "HurtTime": 7.0,
+    "Hurt Speed": 0.75,
+    "Lowhop": false,
+    "Glide": false,
+    "Timer Boost": false,
+    "Ground Speed": 0.2
+  },
+  "Spider": {
+    "enabled": false,
+    "bind": 0,
+    "Mode": "Vanilla",
+    "Vertical Motion": 0.42
+  },
+  "Sprint": {
+    "enabled": true,
+    "bind": 0,
+    "Rage": true
+  },
+  "AntiCheat": {
+    "enabled": false,
+    "bind": 0,
+    "Check self": true
+  },
+  "Disabler": {
+    "enabled": true,
+    "bind": 0,
+    "Sprinting": true,
+    "Vulcan scaffold": true,
+    "Verus combat": false,
+    "Ping Spoof": false,
+    "Ping Spoof Delay": 2500.0,
+    "Watchdog motion": false,
+    "Balance": false
+  },
+  "FlagDetector": {
+    "enabled": false,
+    "bind": 0
+  },
+  "NoRotate": {
+    "enabled": false,
+    "bind": 0
+  },
+  "StaffDetector": {
+    "enabled": false,
+    "bind": 0,
+    "Server": "BlocksMC"
+  },
+  "Timer": {
+    "enabled": false,
+    "bind": 0,
+    "Timer": 1.0
+  },
+  "AntiVoid": {
+    "enabled": false,
+    "bind": 0,
+    "AntiVoid Mode": "Vanilla",
+    "Min AntiVoid Distance": 8.0
+  },
+  "BedAura": {
+    "enabled": false,
+    "bind": 0,
+    "Break Range": 4.0,
+    "Break Top": true,
+    "Rotate": true,
+    "Rot on packet": true,
+    "AutoTool": false,
+    "AutoTool On Packet": false,
+    "Ignore Ground": true,
+    "Break eggs": false,
+    "Ignore own bed": false,
+    "Cancel Velocity": false
+  },
+  "Blink": {
+    "enabled": false,
+    "bind": 0
+  },
+  "ChestStealer": {
+    "enabled": true,
+    "bind": 90,
+    "Start Delay": 0.0,
+    "Take Delay": {
+      "max": 200.0,
+      "min": 150.0
+    },
+    "Close Delay": {
+      "max": 200.0,
+      "min": 150.0
+    },
+    "Important only": true,
+    "Close": true
+  },
+  "InventoryManager": {
+    "enabled": true,
+    "bind": 90,
+    "Start Delay": 350.0,
+    "Take Delay": {
+      "max": 20.0,
+      "min": 200.0
+    },
+    "Throw Sword": false,
+    "Sword Slot": 1.0,
+    "Throw Blocks": false,
+    "Block Slot": 4.0,
+    "Throw Tools": false,
+    "Pickaxe Slot": 2.0,
+    "Axe Slot": 3.0,
+    "Shovel Slot": 9.0,
+    "Hoe Slot": 8.0,
+    "Throw Bow": false,
+    "Bow Slot": 5.0,
+    "Throw Fishing Rod": false,
+    "Fishing Rod Slot": 7.0,
+    "Throw Ender Pearl": false,
+    "Ender Pearl Slot": 8.0,
+    "Throw Food": false,
+    "Food Slot": 6.0
+  },
+  "NoFall": {
+    "enabled": false,
+    "bind": 0,
+    "NoFall Mode": "Vulcan",
+    "Min NoFall Distance": 4.0
+  },
+  "Regen": {
+    "enabled": false,
+    "bind": 0,
+    "Regen Mode": "Vanilla",
+    "Health": 10.0,
+    "Packets": 30.0
+  },
+  "Scaffold": {
+    "enabled": false,
+    "bind": 71,
+    "Rotation Mode": "Normal",
+    "Sprint": false,
+    "Sprint Mode": "Normal",
+    "KeepY": false,
+    "KeepY Mode": "Watchdog",
+    "KeepY LowHop": false,
+    "Tower": false,
+    "Tower Mode": "Vulcan",
+    "Tower Sprint": false,
+    "ConstantMotion": 0.41999998688697815,
+    "ConstantMotionJump": 0.79,
+    "Extra CPS": true,
+    "Telly": false,
+    "Andromeda": false,
+    "Eagle": false,
+    "Sneak every X blocks": 1.0,
+    "Raycast": false,
+    "Strict Raycast": false,
+    "Supa Strict Raycast": false
+  },
+  "Ambience": {
+    "enabled": true,
+    "bind": 0,
+    "Time": 12000.0
+  },
+  "Animations": {
+    "enabled": true,
+    "bind": 0,
+    "Mode": "1.7",
+    "X Offset": 0.0,
+    "Y Offset": 0.0,
+    "Item Scale": 0.0,
+    "Swing Speed": 12.0
+  },
+  "ESP": {
+    "enabled": true,
+    "bind": 0,
+    "Chams": true,
+    "Box": false,
+    "2D": false,
+    "2D Box": false,
+    "2D Box Fill": false,
+    "2D NameTags": false,
+    "2D HealthBar": false
+  },
+  "Fullbright": {
+    "enabled": false,
+    "bind": 0
+  },
+  "NoRender": {
+    "enabled": false,
+    "bind": 0,
+    "HurtCam": false,
+    "Blindness": false,
+    "Darkness": false
+  }
+}
